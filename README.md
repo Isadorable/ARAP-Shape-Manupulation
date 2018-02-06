@@ -9,3 +9,4 @@ and Surface Flattening". The algorithm was tested on a given 2D triangular
 mesh, often used to demonstrate the potential of this method.
 
 Example:
+![Alt text](arap.png?raw=true "Title")
