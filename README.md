@@ -10,3 +10,7 @@ mesh, often used to demonstrate the potential of this method.
 
 Example:
 ![Alt text](arap.png?raw=true "Title")
+
+a) Handles selection in rest pose
+b) Result after pulling the right arm with no defomation control
+c) Result after pulling the right arm with sacle adjustment
